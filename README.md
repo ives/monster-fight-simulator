@@ -2,7 +2,7 @@
 
 1. **Run the setup script**
 
-    `npm run setup`
+    `npm i`
 
 2. **Run the example app**
 
