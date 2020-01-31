@@ -1,3 +1,4 @@
+![monster-fight-simulator](https://user-images.githubusercontent.com/70945/73541908-75de3200-442b-11ea-8bed-62e571ed01dc.png)
 
 
 1. **Run the setup script**
